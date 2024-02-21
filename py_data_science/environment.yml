@@ -12,6 +12,7 @@ dependencies:
   - rclone
   - awscli
   - hdf5tools
+  - pydantic
   - pytables
   - pytest
   - pip
